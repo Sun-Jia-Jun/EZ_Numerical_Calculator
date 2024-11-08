@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\ezCalculator.dir/objects.a
+D:\MinGW\bin\ar.exe qc CMakeFiles\ezCalculator.dir/objects.a @CMakeFiles\ezCalculator.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe -Wl,--whole-archive CMakeFiles\ezCalculator.dir/objects.a -Wl,--no-whole-archive -o C:\Users\sjj23\Desktop\Code\C\Homework\Practical_Works\Program\Calculator\multi_files\bin\ezCalculator.exe -Wl,--out-implib,C:\Users\sjj23\Desktop\Code\C\Homework\Practical_Works\Program\Calculator\multi_files\bin\libezCalculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ezCalculator.dir\linkLibs.rsp

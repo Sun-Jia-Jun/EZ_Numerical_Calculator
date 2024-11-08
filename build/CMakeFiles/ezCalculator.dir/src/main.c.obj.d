@@ -1,0 +1,27 @@
+CMakeFiles/ezCalculator.dir/src/main.c.obj: \
+ C:\Users\sjj23\Desktop\Code\C\Homework\Practical_Works\Program\Calculator\multi_files\src\main.c \
+ D:/MinGW/x86_64-w64-mingw32/include/stdio.h \
+ D:/MinGW/x86_64-w64-mingw32/include/corecrt_stdio_config.h \
+ D:/MinGW/x86_64-w64-mingw32/include/corecrt.h \
+ D:/MinGW/x86_64-w64-mingw32/include/_mingw.h \
+ D:/MinGW/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/MinGW/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/MinGW/x86_64-w64-mingw32/include/vadefs.h \
+ D:/MinGW/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/MinGW/x86_64-w64-mingw32/include/_mingw_off_t.h \
+ D:/MinGW/x86_64-w64-mingw32/include/swprintf.inl \
+ D:/MinGW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
+ D:/MinGW/x86_64-w64-mingw32/include/stdlib.h \
+ D:/MinGW/x86_64-w64-mingw32/include/corecrt_wstdlib.h \
+ D:/MinGW/lib/gcc/x86_64-w64-mingw32/14.2.0/include/limits.h \
+ D:/MinGW/lib/gcc/x86_64-w64-mingw32/14.2.0/include/syslimits.h \
+ D:/MinGW/x86_64-w64-mingw32/include/limits.h \
+ D:/MinGW/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/MinGW/x86_64-w64-mingw32/include/sec_api/stdlib_s.h \
+ D:/MinGW/x86_64-w64-mingw32/include/malloc.h \
+ D:/MinGW/lib/gcc/x86_64-w64-mingw32/14.2.0/include/mm_malloc.h \
+ D:/MinGW/x86_64-w64-mingw32/include/errno.h \
+ D:/MinGW/x86_64-w64-mingw32/include/math.h \
+ D:/MinGW/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdbool.h \
+ C:/Users/sjj23/Desktop/Code/C/Homework/Practical_Works/Program/Calculator/multi_files/include/func.h \
+ C:/Users/sjj23/Desktop/Code/C/Homework/Practical_Works/Program/Calculator/multi_files/include/menu.h

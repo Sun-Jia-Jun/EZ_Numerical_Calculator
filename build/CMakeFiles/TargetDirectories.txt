@@ -1,0 +1,3 @@
+C:/Users/sjj23/Desktop/Code/C/Homework/Practical_Works/Program/Calculator/multi_files/build/CMakeFiles/ezCalculator.dir
+C:/Users/sjj23/Desktop/Code/C/Homework/Practical_Works/Program/Calculator/multi_files/build/CMakeFiles/edit_cache.dir
+C:/Users/sjj23/Desktop/Code/C/Homework/Practical_Works/Program/Calculator/multi_files/build/CMakeFiles/rebuild_cache.dir
