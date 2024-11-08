@@ -1,0 +1,1 @@
+This is a easy Numerical Calculator which can perform Newton interpolation formula,Lagrange interpolation formula, Horner's method,and Bisection method.
